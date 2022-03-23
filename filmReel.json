@@ -1,0 +1,42 @@
+{
+  "name": "The Proposal",
+  "country": "USA",
+  "year": 2009,
+  "studio": "Walt Disney Studios Motion Pictures",
+  "written_by": "Peter Chiarelli",
+  "director": "Anne Fletcher",
+  "producer": [
+    "David Hoberman",
+    "Todd Lieberman"
+  ],
+  "characters": [
+    {
+      "name": "Margaret Tate",
+      "actor": "Sandra Bullock"
+    },
+    {
+      "name": "Andrew Paxton",
+      "actor": "Ryan Reynolds"
+    },
+    {
+      "name": "Grace Paxton",
+      "actor": "Mary Steenburgen"
+    },
+    {
+      "name": "Joe Paxton",
+      "actor": "Craig T. Nelson"
+    },
+    {
+      "name": "Grandma Annie",
+      "actor": "Betty White"
+    },
+    {
+      "name": "Gertrude",
+      "actor": "Malin Akerman"
+    },
+    {
+      "name": "Bob Spaulding",
+      "actor": "Aasif Mandvi"
+    }
+  ]
+}
